@@ -61,7 +61,7 @@
 **[GAGE](http://gage.cbcb.umd.edu/index.html)**
 
 - [ABySS](http://www.bcgsc.ca/platform/bioinfo/software/abyss)
-- [ALLPATHS-LG](ftp://ftp.broadinstitute.org/pub/crd/ALLPATHS/Release-LG/)
+- [ALLPATHS-LG](http://software.broadinstitute.org/allpaths-lg/blog/?page_id=12)
 - [Bambus2](http://sourceforge.net/apps/mediawiki/amos/index.php?title=Bambus2)
 - [Celera Assembler](http://sourceforge.net/apps/mediawiki/wgs-assembler/index.php?title=Main_Pag\e)
 - [MSR-CA](http://www.genome.umd.edu/SR_CA_MANUAL.htm) 
@@ -86,6 +86,7 @@
 - [Centrifuge](http://ccb.jhu.edu/software/centrifuge/)
 - [kaiju](http://kaiju.binf.ku.dk/)
 - [MetaPhlAn](https://huttenhower.sph.harvard.edu/metaphlan)
+- [diamond](https://github.com/bbuchfink/diamond)
 
 ## 变异分析
 
