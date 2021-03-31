@@ -37,6 +37,7 @@
 - [SPINGO](https://github.com/GuyAllard/SPINGO): 物种级别OTU分类
 - [MAPseq](https://github.com/jfmrod/MAPseq): 物种分类鉴定
 - [dokdo](https://github.com/sbslee/dokdo): 微生物组测序下游分析python包
+- [phyloseq](https://joey711.github.io/phyloseq/): 微生物组测序下游分析R包
 - [MicrobiotaProcess](https://github.com/YuLab-SMU/MicrobiotaProcess): 微生物组测序下游分析R包
 - [microbiomeMarker](https://github.com/yiluheihei/microbiomeMarker): 微生物组测序下游分析R包
 - [MicrobiomeStatPlot](https://github.com/YongxinLiu/MicrobiomeStatPlot): 《微生物组数据分析与可视化实战》
