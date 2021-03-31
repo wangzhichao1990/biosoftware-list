@@ -54,42 +54,82 @@
 - [mega](https://www.megasoftware.net/): 进化树构建
 - [phylommand](https://github.com/RybergGroup/phylommand): 创建、操作和分析进化树的工具
 
+## 宏基因组测序分析
+
+### 序列组装
+
+**[GAGE](http://gage.cbcb.umd.edu/index.html)**
+
+- [ABySS](http://www.bcgsc.ca/platform/bioinfo/software/abyss)
+- [ALLPATHS-LG](ftp://ftp.broadinstitute.org/pub/crd/ALLPATHS/Release-LG/),
+- [Bambus2](http://sourceforge.net/apps/mediawiki/amos/index.php?title=Bambus2)
+- [Celera Assembler](http://sourceforge.net/apps/mediawiki/wgs-assembler/index.php?title=Main_Pag\e)
+- [MSR-CA](http://www.genome.umd.edu/SR_CA_MANUAL.htm) 
+-  [SGA](https://github.com/jts/sga)
+- [SOAPdenovo](http://soap.genomics.org.cn/soapdenovo.html)
+-  [Velvet](http://www.ebi.ac.uk/~zerbino/velvet/)
+
+**推荐**
+
+- [spades](https://github.com/ablab/spades)
+- [megahit](https://github.com/voutcn/megahit/)
+- [IDBA-UD](https://github.com/loneknightpy/idba)
+- [Ray](http://denovoassembler.sourceforge.net/)
+
+### 物种鉴定
+
+[Benchmarking Metagenomics Tools for Taxonomic Classification](https://www.cell.com/cell/fulltext/S0092-8674(19)30775-5)
+
+**几个常用的有：**
+
+- [kraken2](http://ccb.jhu.edu/software/kraken2/)
+- [Centrifuge](http://ccb.jhu.edu/software/centrifuge/)
+- [kaiju](http://kaiju.binf.ku.dk/)
+- [MetaPhlAn](https://huttenhower.sph.harvard.edu/metaphlan)
+
 ## 变异分析
 
-[samtools](http://www.htslib.org/)/[bcftools](http://www.htslib.org/doc/bcftools.html)
+- [samtools](http://www.htslib.org/)/[bcftools](http://www.htslib.org/doc/bcftools.html)
 
-[freebayes](https://github.com/freebayes/freebayes)
+- [freebayes](https://github.com/freebayes/freebayes)
+- [snippy](https://github.com/tseemann/snippy)
 
-[snippy](https://github.com/tseemann/snippy)
+- [gatk](https://gatk.broadinstitute.org/hc/en-us)
 
-[gatk](https://gatk.broadinstitute.org/hc/en-us)
+- [vcftools](https://vcftools.github.io/index.html)
 
-[vcftools](https://vcftools.github.io/index.html)
+- [snpEff](https://pcingola.github.io/SnpEff/)
+- [ANNOVAR](https://annovar.openbioinformatics.org/en/latest/)
 
-[snpEff](https://pcingola.github.io/SnpEff/)
+- [VEP](http://asia.ensembl.org/info/docs/tools/vep/script/index.html)
 
-[ANNOVAR](https://annovar.openbioinformatics.org/en/latest/)
+## 耐药分析
 
-[VEP](http://asia.ensembl.org/info/docs/tools/vep/script/index.html)
-
-## 结核耐药分析
-
-[TBProfiler](https://github.com/jodyphelan/TBProfiler)
-
-[mykrobe](https://github.com/Mykrobe-tools/mykrobe)
+- [rgi](https://github.com/arpcard/rgi): 耐药分析
+- [TBProfiler](https://github.com/jodyphelan/TBProfiler): 结核耐药分析
+- [mykrobe](https://github.com/Mykrobe-tools/mykrobe): 结核耐药分析
 
 ## 分析流程
 
-宏基因组
+### 宏基因组分析
 
-[metscale](https://github.com/signaturescience/metscale)
+- [metscale](https://github.com/signaturescience/metscale)
+- [ metaWRAP](https://github.com/bxlab/metaWRAP)
+- [atlas](https://github.com/metagenome-atlas/atlas)
+- [ bhattlab_workflows](https://github.com/bhattlab/bhattlab_workflows)
+- [mag](https://nf-co.re/mag)
 
-[ metaWRAP](https://github.com/bxlab/metaWRAP)
+### 扩增子测序
 
-[atlas](https://github.com/metagenome-atlas/atlas)
+- [ampliseq](https://nf-co.re/ampliseq)
+- [mothurPipeline](https://github.com/SchlossLab/mothurPipeline)
+- [16S-dada2](https://github.com/SilasK/16S-dada2)
+- [Natrix](https://github.com/MW55/Natrix)
+- [dadasnake](https://github.com/a-h-b/dadasnake)
+- [tourmaline](https://github.com/ropolomx/tourmaline)
 
-[ bhattlab_workflows](https://github.com/bhattlab/bhattlab_workflows)
+### 其他
 
-其他
+- [snakemake-workflows](https://github.com/snakemake-workflows)
+- [nf-core](https://nf-co.re/)
 
-[snakemake-workflows](https://github.com/snakemake-workflows)
