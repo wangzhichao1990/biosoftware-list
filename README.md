@@ -110,7 +110,7 @@
 
 ### 官方软件
 
-[Data analysis](https://community.nanoporetech.com/technical_documents/data-analysis/）
+[Data analysis](https://community.nanoporetech.com/technical_documents/data-analysis/)
 
 ### 社区软件
 
