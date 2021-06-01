@@ -91,17 +91,13 @@
 ## 变异分析
 
 - [samtools](http://www.htslib.org/)/[bcftools](http://www.htslib.org/doc/bcftools.html)
-
 - [freebayes](https://github.com/freebayes/freebayes)
+- [ngsep](https://sourceforge.net/projects/ngsep/)
 - [snippy](https://github.com/tseemann/snippy)
-
 - [gatk](https://gatk.broadinstitute.org/hc/en-us)
-
 - [vcftools](https://vcftools.github.io/index.html)
-
 - [snpEff](https://pcingola.github.io/SnpEff/)
 - [ANNOVAR](https://annovar.openbioinformatics.org/en/latest/)
-
 - [VEP](http://asia.ensembl.org/info/docs/tools/vep/script/index.html)
 
 ## 耐药分析
@@ -109,6 +105,16 @@
 - [rgi](https://github.com/arpcard/rgi): 耐药分析
 - [TBProfiler](https://github.com/jodyphelan/TBProfiler): 结核耐药分析
 - [mykrobe](https://github.com/Mykrobe-tools/mykrobe): 结核耐药分析
+
+## nanopore分析常用软件
+
+### 官方软件
+
+[Data analysis](https://community.nanoporetech.com/technical_documents/data-analysis/）
+
+### 社区软件
+
+[A collection of data analysis tools which have been developed by the Nanopore Community](https://community.nanoporetech.com/info_sheets/community-developed-data-a)
 
 ## 分析流程
 
@@ -119,6 +125,7 @@
 - [atlas](https://github.com/metagenome-atlas/atlas)
 - [ bhattlab_workflows](https://github.com/bhattlab/bhattlab_workflows)
 - [mag](https://nf-co.re/mag)
+- [SqueezeMeta](https://github.com/jtamames/SqueezeMeta)
 
 ### 扩增子测序
 
