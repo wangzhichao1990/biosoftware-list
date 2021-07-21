@@ -39,6 +39,7 @@
 - [dokdo](https://github.com/sbslee/dokdo): 微生物组测序下游分析python包
 - [phyloseq](https://joey711.github.io/phyloseq/): 微生物组测序下游分析R包
 - [MicrobiotaProcess](https://github.com/YuLab-SMU/MicrobiotaProcess): 微生物组测序下游分析R包
+- [microeco](https://github.com/ChiLiubio/microeco): 微生物组测序下游分析R包
 - [microbiomeMarker](https://github.com/yiluheihei/microbiomeMarker): 微生物组测序下游分析R包
 - [MicrobiomeStatPlot](https://github.com/YongxinLiu/MicrobiomeStatPlot): 《微生物组数据分析与可视化实战》
 
@@ -115,6 +116,24 @@
 ### 社区软件
 
 [A collection of data analysis tools which have been developed by the Nanopore Community](https://community.nanoporetech.com/info_sheets/community-developed-data-a)
+
+## 基因/[宏]基因组注释
+
+- [Prodigal](https://github.com/hyattpd/Prodigal)
+- [GeneMark](http://exon.gatech.edu/GeneMark/)
+- [MetaGeneAnnotator](http://metagene.nig.ac.jp/)
+
+- [eggNOG-mapper](https://github.com/eggnogdb/eggnog-mapper)
+- [InterProScan](https://www.ebi.ac.uk/interpro/)
+- [KofamScan](https://github.com/takaram/kofam_scan)
+- [prokka](https://github.com/tseemann/prokka)
+- [funannotate](https://github.com/nextgenusfs/funannotate)
+- [bakta](https://github.com/oschwengers/bakta)
+- [mantis](https://github.com/PedroMTQ/mantis)
+- [rapt](https://github.com/ncbi/rapt)/[ pgap](https://github.com/ncbi/pgap)
+- [MicrobeAnnotator](https://github.com/cruizperez/MicrobeAnnotator)
+- [DRAM](https://github.com/shafferm/DRAM)
+- [metaerg](https://github.com/xiaoli-dong/metaerg)
 
 ## 分析流程
 
