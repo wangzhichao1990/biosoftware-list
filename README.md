@@ -40,6 +40,7 @@
 - [phyloseq](https://joey711.github.io/phyloseq/): 微生物组测序下游分析R包
 - [MicrobiotaProcess](https://github.com/YuLab-SMU/MicrobiotaProcess): 微生物组测序下游分析R包
 - [microeco](https://github.com/ChiLiubio/microeco): 微生物组测序下游分析R包
+- [MicrobiomeStat](https://github.com/cafferychen777/MicrobiomeStat): 微生物组测序下游分析R包
 - [microbiomeMarker](https://github.com/yiluheihei/microbiomeMarker): 微生物组测序下游分析R包
 - [MicrobiomeStatPlot](https://github.com/YongxinLiu/MicrobiomeStatPlot): 《微生物组数据分析与可视化实战》
 
