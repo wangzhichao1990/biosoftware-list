@@ -43,7 +43,7 @@
 - [MicrobiomeStat](https://github.com/cafferychen777/MicrobiomeStat): 微生物组测序下游分析R包
 - [microbiomeMarker](https://github.com/yiluheihei/microbiomeMarker): 微生物组测序下游分析R包
 - [MicrobiomeStatPlot](https://github.com/YongxinLiu/MicrobiomeStatPlot): 《微生物组数据分析与可视化实战》
-- [lefser](https://github.com/waldronlab/lefser)
+- [lefser](https://github.com/waldronlab/lefser): LEfSe R语言实现
 
 ## 进化分析
 
