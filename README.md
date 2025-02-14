@@ -24,7 +24,7 @@
 - [tophat](http://ccb.jhu.edu/software/tophat/index.shtml)
 - [hisat2](https://daehwankimlab.github.io/hisat2/)
 
-## 微生物组扩增子测序分析
+## 微生物组数据分析
 
 - [qiime2](https://qiime2.org/): 微生物组扩增子测序数据综合分析软件
 - [usearch](http://www.drive5.com/usearch/): 微生物组扩增子测序数据综合分析软件
@@ -43,6 +43,7 @@
 - [MicrobiomeStat](https://github.com/cafferychen777/MicrobiomeStat): 微生物组测序下游分析R包
 - [microbiomeMarker](https://github.com/yiluheihei/microbiomeMarker): 微生物组测序下游分析R包
 - [MicrobiomeStatPlot](https://github.com/YongxinLiu/MicrobiomeStatPlot): 《微生物组数据分析与可视化实战》
+- [lefser](https://github.com/waldronlab/lefser)
 
 ## 进化分析
 
